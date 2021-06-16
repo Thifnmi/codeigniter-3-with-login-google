@@ -19,7 +19,7 @@ class Logout extends CI_Controller {
 		     // xóa session login
 		    // $_SESSION['tb']="User";
 		}
-		header("Location: http://localhost:8080/hihi/index.php/User/user");
+		header("Location: http://localhost:8080/hihi/index.php/User/login");
 
 	}
 
